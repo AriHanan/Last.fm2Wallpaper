@@ -1,0 +1,4 @@
+language: csharp
+solution: Last.fm2Wallpaper.sln
+mono: none
+dotnet: 2.0.0
