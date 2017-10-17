@@ -48,8 +48,8 @@ made by the very bored developer <a href="https://github.com/AriHanan">Ari Hanan
 
 
 <p align="center">
-	<img src="https://github.com/AriHanan/Last.fm2Wallpaper/blob/master/Resources/footer.png" alt="footer" title="footer" align="middle" height="100" />
+	Last.fm2Wallpaper, v1.0
 </p>
 <p align="center">
-	Last.fm2Wallpaper, v1.0
+	<img src="https://github.com/AriHanan/Last.fm2Wallpaper/blob/master/Resources/footer.png" alt="footer" title="footer" align="middle" height="100" />
 </p>
