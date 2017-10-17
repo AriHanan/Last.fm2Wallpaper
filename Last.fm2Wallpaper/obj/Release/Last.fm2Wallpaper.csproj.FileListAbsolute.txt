@@ -1,0 +1,25 @@
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\bin\Release\icons\VisualElements_150.png
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\bin\Release\icons\VisualElements_70.png
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\bin\Release\Last.fm2Wallpaper.visualelementsmanifest.xml
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\bin\Release\Last.fm2Wallpaper.exe.config
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\bin\Release\Last.fm2Wallpaper.exe
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\bin\Release\Newtonsoft.Json.dll
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\bin\Release\Newtonsoft.Json.xml
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\obj\Release\Lastfm2Wallpaper.main_form.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\obj\Release\Last.fm2Wallpaper.Properties.Resources.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\obj\Release\Lastfm2Wallpaper.settings_form.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\obj\Release\Last.fm2Wallpaper.csproj.GenerateResource.Cache
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm Background\Last.fm2Wallpaper\obj\Release\Last.fm2Wallpaper.exe
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Release\icons\VisualElements_150.png
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Release\icons\VisualElements_70.png
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Release\Last.fm2Wallpaper.visualelementsmanifest.xml
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Release\Last.fm2Wallpaper.exe.config
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Release\Last.fm2Wallpaper.exe
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Release\Newtonsoft.Json.dll
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Release\Newtonsoft.Json.xml
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Release\Last.fm2Wallpaper.csprojResolveAssemblyReference.cache
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Release\Lastfm2Wallpaper.main_form.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Release\Last.fm2Wallpaper.Properties.Resources.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Release\Lastfm2Wallpaper.settings_form.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Release\Last.fm2Wallpaper.csproj.GenerateResource.Cache
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Release\Last.fm2Wallpaper.exe

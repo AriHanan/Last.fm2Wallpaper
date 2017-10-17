@@ -1,0 +1,14 @@
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Debug\icons\VisualElements_150.png
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Debug\icons\VisualElements_70.png
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Debug\Last.fm2Wallpaper.visualelementsmanifest.xml
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Debug\Last.fm2Wallpaper.exe.config
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Debug\Last.fm2Wallpaper.exe
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Debug\Last.fm2Wallpaper.pdb
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Debug\Lastfm2Wallpaper.main_form.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Debug\Last.fm2Wallpaper.Properties.Resources.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Debug\Lastfm2Wallpaper.settings_form.resources
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Debug\Last.fm2Wallpaper.csproj.GenerateResource.Cache
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Debug\Last.fm2Wallpaper.exe
+C:\Users\User-PC\Documents\Visual Studio 2017\Projects\Last.fm2Wallpaper\Last.fm2Wallpaper\obj\Debug\Last.fm2Wallpaper.pdb
