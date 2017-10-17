@@ -15,7 +15,7 @@ Display album art and song info as your wallpaper using last.fm data.
 
 # Installation
 <a href="https://github.com/AriHanan/Last.fm2Wallpaper/releases/download/v1.0.0/Lastfm2Wallpaper.zip">
-	<img src="https://github.com/AriHanan/Last.fm2Wallpaper/blob/master/Resources/download.png" alt="Download" title="Download" align="right" height="30" />
+	<img src="https://github.com/AriHanan/Last.fm2Wallpaper/blob/master/Resources/download.png" alt="Download" title="Download" height="50" />
 </a>
 
 Click on the text above to download a zip.
