@@ -3,4 +3,4 @@ solution: Last.fm2Wallpaper.sln
 mono: none
 dotnet: 1.0.0-rc4-004771
 script:  
-  - ./Program.sh
+  - Last.fm2Wallpaper/Program.sh
