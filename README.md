@@ -2,6 +2,15 @@
 	<img src="https://github.com/AriHanan/Last.fm2Wallpaper/blob/master/Resources/cover.png" alt="Last.fm2Wallpaper" title="Last.fm2Wallpaper" align="middle" />
 </p>
 
+<p align="center">
+	<a href="https://travis-ci.org/AriHanan/Last.fm2Wallpaper">
+		<img src="https://img.shields.io/travis/AriHanan/Last.fm2Wallpaper.svg?style=flat-square" alt="Travis CI" title="Travis CI"/>
+	</a>
+	<a href="https://github.com/AriHanan/Last.fm2Wallpaper/releases">
+		<img src="https://img.shields.io/github/release/AriHanan/Last.fm2Wallpaper.svg?style=flat-square" alt="Version" title="Version"/>
+	</a>
+</p>
+
 Display album art and song info as your wallpaper using last.fm data.
 
 # Table of contents
